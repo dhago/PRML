@@ -1,0 +1,5 @@
+A3 -> Contains K-means, GMM, HMM, DTW implementation.
+   -> Uses K-Means and GMMs for Image Classification
+   -> Uses HMM,DTW for online Handwritten character dataset and Isolated spoken Digit dataset
+   
+A4 -> Implements KNN, SVM, ANN, Logistic Regression with and without PCA,LDA on All above datasets
