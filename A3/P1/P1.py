@@ -5,10 +5,7 @@
 
 
 '''
-Team 19 [Anvith Pabba (EE19B070) and Dharani Gopal (CS19B004)]
-CS5691 PRML
-Assignment-3
-Question-1, GMMs and image classification
+GMMs and image classification
 '''
 
 
