@@ -1,5 +1,3 @@
-*************CS19B004***************
-
 /////////////TICTACTOE//////////////
 Commands:
 	Compile the codes
@@ -23,9 +21,10 @@ Log file:
 	In a game, on each rematches, starting turn is exchanged.
 	
 /////////////YAPP/////////////
-Yet another ping program.
+Yet another ping program. A barebones and simple replication of the commonly used Ping command.
 To set timeout thresholds, change the #defines in yapp.c
 To run -> gcc yapp.c -o yapp
        -> sudo ./yapp X.X.X.X
+       -> X.X.X.X is an IPv4 address
 Returns RTT if ping was succesful.
-(Checksum and basic structure borrowed from ping.c)
+(Checksum and basic structure borrowed from ping command in ubuntu)
